@@ -32,7 +32,7 @@ void input() {
 		}
 	}
 }
-
+ 
 int main() {
 	printf("input 3 number : ");
 	scanf("%d %d %d", &a, &b, &c);
